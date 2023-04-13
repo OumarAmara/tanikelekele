@@ -1,0 +1,37 @@
+@import url('utiles.css');
+
+
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.logo{
+    width: 18rem;
+}
+.links{
+    text-decoration: double;
+    color: black;
+}
+.links:hover{
+    color: #fff;
+}
+.panier{
+    background-color: #fff;
+    
+}
+.panier:hover{
+    background-color: #00337C;
+}
+.nav-link{
+    text-transform: uppercase;
+}
+.btn-Rechercher{
+    height: 50px;
+}
+.nav-link{
+    padding: auto;
+}
+.nav-link:hover{
+    background-color: #d52bf7;
+    
+}
