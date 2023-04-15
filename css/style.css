@@ -35,3 +35,71 @@ body{
     background-color: #d52bf7;
     
 }
+h1{
+    color: #9d08bb;
+    font-size: 4rem;
+    text-align: center;
+}
+.tani{
+    width: 18rem;
+    margin-top: -6rem;
+}
+
+.link a{
+    text-decoration: none;
+    color: #fff;
+}
+h2{
+    color: #fff;
+}
+p{
+    color: #fff;
+}
+.row{
+    box-sizing: border-box;
+}
+.partenaires{
+    text-align: center;
+    font-size: 4rem;
+}
+.black{
+    color: black;
+}
+
+.btn-tous .buton{
+    border:  1px solid green ;
+    height: 80px;
+    font-size: 25px;
+    background-color: #030f7cd7;
+    color: #fff;
+    line-height: 80px;
+    margin-top: 2rem;
+    box-sizing: border-box;
+}
+.btn-tous .buton:hover{
+    background-color: #bedcec;
+}
+.btn-resch{
+    width: 15rem;
+    height: 2rem;
+    background-color:#02013b;
+    color: #fff;
+}
+
+.btn-reschs{
+    width: 8rem;
+    height: 2rem;
+    background-color:#02013b;
+    color: #fff;
+}
+
+.bordur{
+    border-top: 1px solid rgb(185, 185, 185);
+}
+ins{
+    color: #00337C;
+}
+
+.articl-image{
+    width: 150px;
+}

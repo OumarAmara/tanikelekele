@@ -48,6 +48,10 @@ body {
     margin-right: 20px;
 }
 
+.mx-30{
+    margin-left:60px;
+}
+
 .my-5 {
     margin-top: 5px;
     margin-bottom: 5px;
@@ -75,7 +79,9 @@ body {
 .mt-5 {
     margin-top: 5px;
 }
-
+.mt-x{
+    margin-top: -60px;
+}
 .mt-10 {
     margin-top: 10px;
 }
